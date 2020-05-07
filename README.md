@@ -1,6 +1,6 @@
 # app-bootstrapper
 
-**NOTE**: This is raw example and it mostly don't work. For now it's just PoC
+**NOTE**: This is raw example and it's mostly don't work. For now it's just a PoC
 
 ## Usage
 1. Create a new project;
